@@ -1,2 +1,2 @@
 # Instagram
-嘗試刻出IG官網的版面
+刻出IG官網的版面，包含RWD
